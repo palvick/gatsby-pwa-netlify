@@ -10,7 +10,7 @@
     "gatsby-plugin-sharp": "^2.0.10",
     "gatsby-source-filesystem": "^2.0.6",
     "gatsby-transformer-json": "2.1.5",
-    "gatsby-transformer-sharp": "^2.1.7",
+    "gatsby-transformer-sharp": "^2.3.3",
     "gatsby-plugin-manifest": "^2.2.9",
     "gatsby-plugin-offline":"^3.0.19",
     "node": "^10.16.3",
