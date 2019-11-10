@@ -1,0 +1,6 @@
+/drupal/vendor/
+/drupal/drush
+/drupal/web
+/drupal/html
+.idea
+/node_modules

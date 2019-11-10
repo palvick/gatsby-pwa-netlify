@@ -1,0 +1,7 @@
+[Settings]
+ID = "tome-gatsby"
+
+[build]
+NODE_VERSION=9
+command = "npm i -g yarn && cd gatsby && yarn install && yarn run build"
+publish = "gatsby/public"
