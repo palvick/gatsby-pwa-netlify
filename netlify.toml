@@ -5,7 +5,7 @@ ID = "tome-gatsby"
 NODE_VERSION = "10.16.3"
 YARN_VERSION = "1.17.0"
 YARN_FLAGS = "--no-ignore-optional"
-command = "npm i -g yarn && cd gatsby && yarn install && yarn add lovell/sharp && npm rebuild sharp --update-binary && yarn run build"
+command = "cd gatsby && rm -rf node_modules && npm i -g && yarn install && yarn add lovell/sharp && npm rebuild sharp --update-binary && yarn run build"
 publish = "gatsby/public"
 
  
