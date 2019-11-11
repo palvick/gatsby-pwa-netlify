@@ -3,6 +3,7 @@ ID = "tome-gatsby"
 
 [build]
 NODE_VERSION = "10.16.3"
+YARN_VERSION = "1.17.0"
 YARN_FLAGS = "--no-ignore-optional"
 command = "npm i -g yarn && cd gatsby && yarn install && npm rebuild sharp --update-binary && yarn run build"
 publish = "gatsby/public"
