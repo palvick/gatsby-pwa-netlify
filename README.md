@@ -14,7 +14,7 @@ The static site then can be added as a shortcut to your desktop/mobile which the
 
 Your Drupal and Gatsby codebases can live together in one repository!
 
-You can see the latest build of this demo at 
+You can see the latest build of this demo at https://compassionate-kowalevski-399cc2.netlify.com/
 
 # Requirements
 
